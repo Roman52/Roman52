@@ -1,11 +1,13 @@
 ## Hi there 👋
 
+I am Roman - I am currently working as Full Stack WordPress Developer at LeaseLeads.co (https://www.leaseleads.co)
+
+## 📫 How to reach me:
+
+Email: rzharov.dev@gmail.com
+LinkedIn: https://www.linkedin.com/in/rzharov
+
 ## 📊 GitHub Activity Overview
-
-<!-- GitHub Stat Cards -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman52&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Roman52&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Roman52&theme=github-dark)
 
