@@ -2,7 +2,7 @@
 
 I am Roman - I am currently working as a Full Stack WordPress Developer at [LeaseLeads.co](https://www.leaseleads.co)
 
-## 📫 How to reach me:
+## 📫 Say hi to me:
 
 Email: rzharov.dev@gmail.com
 LinkedIn: https://www.linkedin.com/in/rzharov
