@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Roman - I am currently working as Full Stack WordPress Developer at [LeaseLeads.co](https://www.leaseleads.co)
+I am Roman - I am currently working as a Full Stack WordPress Developer at [LeaseLeads.co](https://www.leaseleads.co)
 
 ## 📫 How to reach me:
 
