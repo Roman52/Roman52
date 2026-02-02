@@ -7,10 +7,6 @@ I am Roman - I am currently working as a Full Stack WordPress Developer at [Leas
 Email: rzharov.dev@gmail.com
 LinkedIn: https://www.linkedin.com/in/rzharov
 
-## 📊 GitHub Activity Overview
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Roman52&theme=github-dark)
-
 <!--
 **Roman52/Roman52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
