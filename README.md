@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## 📊 GitHub Activity Overview
+
+<!-- GitHub Stat Cards -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman52&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Roman52&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Roman52&theme=github-dark)
+
 <!--
 **Roman52/Roman52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
